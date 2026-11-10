@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 270" role="img" aria-label="Conceptual edge AI conversational robotics pipeline">
+<rect width="1020" height="270" rx="15" fill="#101827"/>
+<text x="40" y="50" font-family="Arial" font-size="26" font-weight="bold" fill="#EAF4FC">On-device conversational robotics</text>
+<text x="40" y="78" font-family="Arial" font-size="15" fill="#B9C8D8">Modular services · local AI inference · measurable acceptance</text>
+<g fill="#1E344B" stroke="#4BC1E2" stroke-width="2">
+<rect x="40" y="113" width="166" height="99" rx="12"/>
+<rect x="231" y="113" width="166" height="99" rx="12"/>
+<rect x="422" y="113" width="166" height="99" rx="12"/>
+<rect x="613" y="113" width="166" height="99" rx="12"/>
+<rect x="804" y="113" width="166" height="99" rx="12"/>
+</g>
+<g font-family="Arial" font-size="17" text-anchor="middle" fill="#EEF7FD">
+<text x="123" y="151">Audio input</text><text x="123" y="180" font-size="14">VAD / STT</text>
+<text x="314" y="151">Context</text><text x="314" y="180" font-size="14">Policy</text>
+<text x="505" y="151">Local model</text><text x="505" y="180" font-size="14">Inference</text>
+<text x="696" y="151">Streaming</text><text x="696" y="180" font-size="14">Speech</text>
+<text x="887" y="151">ROS 2</text><text x="887" y="180" font-size="14">Expressions</text>
+</g>
+<g stroke="#4BC1E2" stroke-width="3"><path d="M206 162h25 M397 162h25 M588 162h25 M779 162h25"/></g>
+<text x="40" y="245" fill="#8FA8BF" font-family="Arial" font-size="13">Original OSYSTIC editorial architecture diagram · not a physical acceptance result</text>
+</svg>
